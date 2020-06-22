@@ -44,7 +44,7 @@ class hash{
         int num = hashFun(emp.id);
         emplinklists[num].add(emp);
     }
-    public 
+
     public int hashFun(int id){
 
         return id % size;
