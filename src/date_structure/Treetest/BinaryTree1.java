@@ -20,8 +20,6 @@ public class BinaryTree1 {
         b.midOrder();
         System.out.println("后序遍历：");
         b.behindOrder();
-
-
     }
 }
 
